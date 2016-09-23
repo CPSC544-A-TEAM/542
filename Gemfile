@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'chronic'
+gem 'digest'
+gem 'dotenv'
+gem 'faker'
+gem 'minitest'
+gem 'mysql'
+gem 'rspec'
+gem 'savon'
+gem 'selenium-webdriver'
